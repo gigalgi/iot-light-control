@@ -1,4 +1,5 @@
-# 💡 esp32-servo-switch
+# 💡 esp32-servo-switch iot-light-control
+
 
 **IoT light switch controller — an ESP32 running MicroPython hosts its own web server and physically flips a real wall switch via a servo motor, triggered from any browser on the local network.**
 
